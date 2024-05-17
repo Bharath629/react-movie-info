@@ -1,0 +1,47 @@
+
+#image-imdb {
+    color: orange;
+}
+
+#image-react {
+    color: lightblue;
+}
+
+#searchForm {
+    margin: 20px 40px 20px 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:darkgray;
+    border-radius: 5px;
+}
+
+.form-control-search {
+    text-align: center;
+    width: 900px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+}
+
+.details {
+    padding-left: 30px;    
+}
+
+.movie-poster {
+    border: dimgrey 1px solid;
+    width: 320px;
+}
+
+label {
+    color: lightslategrey;
+}
